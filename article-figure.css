@@ -19,6 +19,8 @@
 .coverPhoto__image {
 	grid-column-start: 2;
 	grid-column-end: 5;
+	width:100%;
+	height:auto;
 }
 
 .caption__photographer {

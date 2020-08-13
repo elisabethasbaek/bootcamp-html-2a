@@ -1,6 +1,7 @@
 @import './article-header.css';
 @import './article-figure.css';
 @import './article-information.css';
+@import './article-colophon.css';
 
 .mainArticle {
 	display: grid;

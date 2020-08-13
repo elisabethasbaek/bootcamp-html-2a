@@ -1,0 +1,11 @@
+.colophon__newssectionHeadline{
+    grid-area: newssection;
+}
+
+.colophon__date{
+    grid-area: colophon;
+}
+
+.colophon__comments{
+    grid-area: commentcount;
+}
