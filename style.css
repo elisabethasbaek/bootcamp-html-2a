@@ -1,1 +1,5 @@
 @import './main-article.css';
+
+address{
+    font-style: normal;
+}

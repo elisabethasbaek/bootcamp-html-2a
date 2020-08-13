@@ -1,0 +1,30 @@
+.mainArticle__byline{
+    grid-area: byline;
+    margin-top:1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7em;
+}
+
+.mainArticle__byline img{
+    border-radius: 50%;
+}
+
+.byline__authorPortrait{
+    float:left;
+    padding-right:1rem;
+}
+
+.authorNameOne__contact,
+.byline__authorTwoEmail{
+    padding-top:0.5rem;
+}
+
+.byline__authorNameOne,
+.byline__authorNameTwo{
+    font-weight:bolder;
+    margin:0;
+}
+
+.byline__authorNameTwo{
+    margin-top:1.5rem;
+}
