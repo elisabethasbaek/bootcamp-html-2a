@@ -1,4 +1,5 @@
 @import './content-shareSome.css';
+@import './content-subscribeBox.css';
 
 .mainArticle__content{
     grid-area:content;
