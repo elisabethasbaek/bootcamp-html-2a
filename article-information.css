@@ -1,0 +1,11 @@
+.mainArticle__articleInformation{
+    grid-area: information;
+    font-size: 0.8em;
+    font-weight:900;
+    color:hsl(0, 0%, 72%);
+}
+
+.mainArticle__articleInformation>.articleInformation__eyecatcher{
+    color:hsl(0, 99%, 43%);
+    padding-right:0.5rem;
+}
