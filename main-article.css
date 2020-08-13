@@ -2,6 +2,7 @@
 @import './article-figure.css';
 @import './article-information.css';
 @import './article-colophon.css';
+@import './article-content.css';
 
 .mainArticle {
 	display: grid;

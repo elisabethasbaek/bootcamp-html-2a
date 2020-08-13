@@ -1,7 +1,6 @@
 .mainArticle__articleInformation{
     grid-area: information;
     color:hsl(0, 1%, 82%);
-    
 }
 
 .articleInformation__eyecatcher{
