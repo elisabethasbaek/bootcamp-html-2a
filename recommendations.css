@@ -1,4 +1,5 @@
 @import './recommendations-thumbnails.css';
+@import './recommendations-header.css';
 
 .recommendations{
     display: grid;
