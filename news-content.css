@@ -1,8 +1,4 @@
 
-.news__content{
-    border-bottom:1px dotted #777;
-    padding-bottom:0.5rem;
-}
 
 .content__sectional{
     border-bottom:1px solid hsl(0, 1%, 82%);
@@ -27,4 +23,3 @@
     font-weight:bolder;
     font-size:0.85rem;
 }
-
