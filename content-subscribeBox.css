@@ -1,0 +1,49 @@
+.content__subscribeBox{
+    background:linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 60%);
+    font-family: Helvetica, Arial, sans-serif;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
+
+.subscribebox__items{
+    position:absolute;
+    bottom:0;
+    padding:0 4rem;
+}
+
+.subscribeBox__heading{
+    font-size: 1rem;
+    line-height: 1.25em;
+    font-weight: bolder;
+    text-align: center;
+    color: hsl(0, 0%, 16%);
+    padding-bottom: 2rem;
+}
+
+.subscribeBox__callToAction{
+    text-align:center;
+    margin: 0;
+    margin-bottom:2rem;
+}
+
+.subscribeBox__callToAction>a{
+    text-decoration:none;
+    color: rgb(255,255,255);
+    background: #DD0000;
+    border-radius: 5%;
+    padding: 10px 80px;
+    font-size: 0.85rem;
+}
+
+.subscribeBox__logIn{
+    text-align: center;
+    color: #777
+}
+
+.subscribeBox__logIn>a{
+    color: hsl(0, 0%, 16%);
+}
