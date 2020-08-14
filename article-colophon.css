@@ -3,7 +3,7 @@
 .mainArticle__colophonNewssection{
     grid-area: newssection;
     font-size: 0.93em;
-    color:hsl(0, 99%, 43%);
+    color:#DD0000;
     margin-bottom:0;
     margin-right:1rem;
 }
