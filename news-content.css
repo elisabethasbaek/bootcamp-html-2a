@@ -6,6 +6,11 @@
 
 .content__sectional{
     border-bottom:1px solid hsl(0, 1%, 82%);
+    padding:0.5rem 0;
+}
+
+.content__sectional:last-of-type{
+    border-bottom:none;
 }
 
 .sectional__timeStamp{
