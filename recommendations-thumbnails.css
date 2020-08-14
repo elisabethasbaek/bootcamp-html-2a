@@ -1,0 +1,21 @@
+
+.recommendations img{
+    width:100%;
+    margin-bottom:0.3rem;
+}
+
+.recommendations__thumbnails{
+    grid-area: thumbnails;
+    display:grid;
+    grid-template: 1fr / repeat(4, 1fr);
+    grid-gap:20px;
+}
+
+.recommendations__thumbnailLink>a{
+    color: hsl(0, 0%, 16%);
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.93em;
+    line-height: 1.2rem;
+    font-weight: 900;
+}

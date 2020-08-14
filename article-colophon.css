@@ -11,12 +11,14 @@
 .mainArticle__colophonDate{
     grid-area: colophon;
     font-size: 0.7em;
+    color: hsl(0, 0%, 16%);
 }
 
 .mainArticle__colophonComments{
     grid-area: commentcount;
     text-align: right;
     font-size: 0.7em;
+    color: hsl(0, 0%, 16%);
 }
 
 .mainArticle__colophonNewssection,
