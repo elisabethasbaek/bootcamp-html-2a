@@ -1,11 +1,10 @@
 @import './overview-news.css';
+@import './overview-selection.css';
 
 .overview{
     display: grid;
-	grid-template-rows: repeat(2, auto);
+	-grid-template-rows: repeat(2, auto);
 	grid-template-columns: repeat(4, 1fr);
-	grid-template-areas:"header header header header"
-						"thumbnails thumbnails thumbnails thumbnails";
 	max-width: 894.66px;
     margin: 0 auto;
 }
