@@ -1,3 +1,11 @@
+:root{
+    /* colours: */
+    --primaryBlack: hsl(0, 0%, 16%);
+    --darkGrey: #999;
+    --lightGrey: hsl(0, 1%, 82%);
+    --primaryRed: #DD0000;
+} /* color: var(--navnPaaFarven); */
+
 @import './main-article.css';
 @import './recommendations.css';
 @import './overview.css';
