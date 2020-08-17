@@ -1,6 +1,12 @@
-@import './heading.css';
 @import './article-summary.css';
 
 .mainArticle__articleHeader {
 	grid-area: teaser;
+}
+
+.mainArticle__heading {
+	color: hsl(0, 0%, 16%);
+	font-size: 2.3em;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin:0;
 }

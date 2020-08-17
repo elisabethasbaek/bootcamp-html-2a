@@ -1,0 +1,7 @@
+@import './user-activity-colophon.css';
+
+.userActivity__recs{
+    grid-area: 1/1/2/2;
+    margin-right:2rem;
+}
+

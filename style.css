@@ -1,6 +1,7 @@
 @import './main-article.css';
 @import './recommendations.css';
 @import './overview.css';
+@import './user-activity.css';
 
 address{
     font-style: normal;

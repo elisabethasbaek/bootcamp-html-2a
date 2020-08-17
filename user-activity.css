@@ -1,0 +1,10 @@
+@import './user-activity-recs.css';
+@import './user-activity-comments.css';
+
+.userActivity{
+    display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	max-width: 894.66px;
+	margin: 0 auto;
+	padding-bottom:4rem;
+}
