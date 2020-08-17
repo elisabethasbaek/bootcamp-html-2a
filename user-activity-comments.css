@@ -1,4 +1,5 @@
 @import './user-activity-colophon.css';
+@import './user-activity-byline.css';
 
 .userActivity__comments{
     grid-area: 1/2/2/5;
