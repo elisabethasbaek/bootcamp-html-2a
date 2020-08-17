@@ -1,0 +1,25 @@
+.newsSelection__thumbnailLinks{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
+
+.thumbnailLinks__sectional{
+    display: grid;
+    grid-template-rows:2rem auto auto auto;
+}
+
+.sectional__abbonnement{
+    margin:0;
+}
+
+.sectional__thumbnail{
+    width:100%;
+}
+
+.sectional__heading{
+
+}
+
+.sectional__teaser{
+    margin:0;
+}
