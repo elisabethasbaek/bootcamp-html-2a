@@ -1,15 +1,20 @@
 .newsSelection__thumbnailLinks{
     display: grid;
     grid-template-columns: repeat(3, auto);
+    grid-gap:20px;
 }
 
 .thumbnailLinks__sectional{
     display: grid;
-    grid-template-rows:2rem auto auto auto;
+    grid-template-rows:1rem auto auto auto;
 }
 
 .sectional__abbonnement{
     margin:0;
+    color: #DD0000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size: 0.6rem;
 }
 
 .sectional__thumbnail{
