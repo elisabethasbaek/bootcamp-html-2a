@@ -5,3 +5,27 @@
     grid-area: 1/2/2/5;
 }
 
+.comments__comment{
+    border-bottom:1px solid hsl(0, 1%, 82%);
+    padding-bottom:1.5rem;
+    margin-bottom:1.5rem;
+}
+
+.comments__comment:last-of-type{
+    border-bottom:none;
+}
+
+.comment__userComment{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.93rem;
+    line-height: 1.2rem;
+    color: hsl(0, 0%, 16%);
+}
+
+.comment__recCommentButton{
+    text-decoration: none;
+    color: hsl(0, 0%, 16%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.75rem;
+    font-weight: bolder;
+}

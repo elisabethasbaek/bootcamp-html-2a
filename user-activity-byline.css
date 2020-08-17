@@ -1,12 +1,21 @@
-.comments__bylineUserActivity{
+.comment__bylineUserActivity{
     font-family: Arial, Helvetica, sans-serif;
     color: hsl(0, 0%, 16%);
     font-size: 0.7em;
-    padding-top:1rem;
 }
 
 .bylineUserActivity__userAvatar{
     float:left;
     margin-right:1rem;
     border-radius: 50%;
+}
+
+.bylineUserActivity__username{
+    margin: 0.3rem 0 0 0;
+    font-weight: bolder;
+}
+
+.bylineUserActivity__date{
+    margin: 0.3rem 0 0 0;
+    color:hsl(0, 1%, 82%);
 }
