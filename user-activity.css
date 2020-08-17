@@ -6,5 +6,6 @@
 	grid-template-columns: 25% 75%;
 	max-width: 894.66px;
 	margin: 0 auto;
-	padding-bottom:4rem;
+    padding-bottom:4rem;
+    padding-top:30vh;
 }
