@@ -6,7 +6,7 @@
 
 .thumbnailLinks__sectional{
     display: grid;
-    grid-template-rows:1rem auto auto auto;
+    grid-template-rows:1rem auto 1fr auto;
 }
 
 .sectional__abbonnement{
@@ -19,12 +19,24 @@
 
 .sectional__thumbnail{
     width:100%;
+    padding-bottom:0.5rem;
 }
 
 .sectional__heading{
-
+    color: hsl(0, 0%, 16%);
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.93em;
+    line-height: 1.2rem;
+    font-weight: 900;
+    padding-bottom:0.5rem;
 }
 
 .sectional__teaser{
+    margin:0;
+    color: #777;
+    line-height: 1.25;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:0.8rem;
     margin:0;
 }

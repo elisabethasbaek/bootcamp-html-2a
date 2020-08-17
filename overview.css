@@ -6,5 +6,6 @@
 	-grid-template-rows: repeat(2, auto);
 	grid-template-columns: repeat(4, 1fr);
 	max-width: 894.66px;
-    margin: 0 auto;
+	margin: 0 auto;
+	padding-bottom:4rem;
 }
