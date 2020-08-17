@@ -1,0 +1,12 @@
+@import './main-header-logo.css';
+@import './main-header-navbar.css';
+
+.mainHeader{
+    display: grid;
+    grid-template-rows: auto auto;
+    width:100vw;
+    height:auto;
+    position:relative; /* was gonna use for box-shadow beneath navbar */
+    margin-bottom: 1rem;
+}
+
